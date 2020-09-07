@@ -3,7 +3,7 @@
 ## Table of Content
   * [Python](#python)
   * [Python Installation](#installation)
-  * [Python Basics](#basic python code)
+  * [Python Basics](#basic-python-code)
 
 ## Python
 
